@@ -15,10 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="game1.cpp">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="3week.cpp">
+    <ClCompile Include="9week.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
