@@ -15,11 +15,16 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="9week.c">
+    <ClCompile Include="ElfMath.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="10week.c">
+    <ClCompile Include="Lecture12.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ElfMath.h">
+      <Filter>소스 파일</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
